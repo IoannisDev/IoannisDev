@@ -1,7 +1,7 @@
 # Hi, I'm Ioannis 
 
 ## About Me
-I'm a developer focused on Data Analytics, Machine Learning, and Data Science.
+Interested in Data science and Data analytics
 
 ---
 
