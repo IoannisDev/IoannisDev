@@ -27,6 +27,3 @@ Interested in Data science and Data analytics
 ![GitHub Streak](https://streak-stats.demolab.com?user=IoannisDev&theme=dark)
 
 ---
-
-##  Currently Working On
-- CLI_finance Tracker
